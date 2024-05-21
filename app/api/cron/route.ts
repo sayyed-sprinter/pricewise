@@ -13,7 +13,6 @@ import {
 } from "@/lib/utils";
 import { NextResponse } from "next/server";
 
-export const maxDuration = 3;
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
 
